@@ -1,3 +1,5 @@
+package br.ufpb.dcx.lucena.clara.programas;
+
 import javax.swing.*;
 
 public class saudacao {

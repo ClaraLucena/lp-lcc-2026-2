@@ -1,3 +1,5 @@
+package br.ufpb.dcx.lucena.clara.programas;
+
 import java.util.Scanner;
 
 public class Adivinha {

@@ -1,3 +1,5 @@
+package br.ufpb.dcx.lucena.clara.programas;
+
 import javax.swing.JOptionPane;
 public class frutas {
     public static void main(String[] args) {

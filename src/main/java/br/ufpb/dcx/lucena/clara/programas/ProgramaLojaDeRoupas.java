@@ -1,4 +1,4 @@
-package br.ufpb.dcx.ayla.roupas;
+package br.ufpb.dcx.lucena.clara.programas;
 
 import java.util.Scanner;
 
